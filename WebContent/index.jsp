@@ -28,13 +28,13 @@ body, h1, h2, h3, h4, h5, h6 {
 
 	<!-- Navigation Bar -->
 	<div class="w3-bar w3-white w3-border-bottom">
-		<a href="/LevenshteinAlgorithmApp/home"
+		<a href="/home"
 			class="w3-bar-item w3-button w3-text-red w3-hover-red"><b>Levenshtein
 				Distance Calculator</b></a>
 	</div>
 	<div id="block1" class="w3-display-middle" style="width: 65%">
 		<div>
-			<form action="/LevenshteinAlgorithmApp/calculate" method="POST">
+			<form action="/calculate" method="POST">
 				<div class="w3-container w3-white w3-padding-16">
 					<h3>Enter Word1 and Word2</h3>
 					<div class="w3-row-padding" style="margin: 0 -16px;">
